@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="flex items-center mb-4">
             <Image src={"/logo.png"} alt="logo" width={150} height={50} />
           </div>
-          <p className="text-gray-400">
+          <p className="text-gray-400 max-w-60">
             Highlight benefits of each exercise, both physical and mental
           </p>
         </div>
