@@ -74,7 +74,7 @@ const Hero = () => {
             </Link>
           </div>
         </div>
-       {/* <div className="flex-1 w-full flex justify-center md:justify-end">
+        {/* <div className="flex-1 w-full flex justify-center md:justify-end">
           <Image
             src="/homee.png"
             alt="Fitness Guy and Woman Standing"

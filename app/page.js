@@ -3,6 +3,8 @@ import Hero from "@/components/Hero";
 import JoinUs from "@/components/JoinUs";
 import Pricing from "@/components/Pricing";
 import Program from "@/components/Program";
+import Subscription from "@/components/Subscription";
+import Testimonial from "@/components/Testimonial";
 
 export default function Home() {
   return (
@@ -12,6 +14,8 @@ export default function Home() {
       <FitnessPlan />
       <JoinUs />
       <Pricing />
+      <Testimonial />
+      <Subscription />
     </main>
   );
 }
